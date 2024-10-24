@@ -20,4 +20,6 @@ contract HelloWorld{
         message = _message;
         date = block.timestamp; //pido fecha a solidity
     }
+
+    //0x8A982bF6E307E6463187EDe04dFdaB75f736b6cb Dir del contract
 }
