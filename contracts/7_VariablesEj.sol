@@ -12,3 +12,5 @@ contract VariablesEj{
     return storedInfo; //aca le habia puesto mal q requiera variable como param
  }
 }
+
+//0x30C893225a5edA3283E98EF8ca32b59867e51B3e
